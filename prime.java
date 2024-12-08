@@ -1,4 +1,4 @@
-public class prim {
+public class prime {
     public static void main(String[] args) {
         for (int num = 2; num <= 100; num++) {
             if (isPrime(num)) {
